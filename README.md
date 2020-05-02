@@ -3,7 +3,8 @@ The prediction of energy consumption in buildings is essential when trying to re
 
 
 # Usage
-This project was developed using MATLAB. Folder scr contains the following: 
-1. The training code under the name "MLP_training" 
+This project was developed using MATLAB. There is no need for installing any extensions on MATLAB. Folder scr contains the following: 
+1. The training code under the name "MLP_training".
+
  
  
